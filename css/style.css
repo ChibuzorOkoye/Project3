@@ -1,0 +1,21 @@
+.movie {
+    cursor:pointer;
+
+}
+
+.movie:hover {
+    color:white;
+    text-decoration:underline;
+}
+
+
+p{
+    text-decoration: aqua;
+}
+
+body{
+    background-image: url("cinema2.jpg");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
